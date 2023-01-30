@@ -1,0 +1,17 @@
+.cabecalho {
+    background-color: black;
+    margin: 20px;
+    padding: 15px 20px;  
+    
+}
+.sorteios{
+    background-color: rgb(130, 130, 172);
+}
+
+.ganhadores{
+    background-color: aquamarine;
+}
+
+.termos{
+    background-color: chartreuse;
+}
